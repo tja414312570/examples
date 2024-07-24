@@ -43,6 +43,7 @@ import kotlinx.coroutines.asCoroutineDispatcher
 import kotlinx.coroutines.async
 import kotlinx.coroutines.sync.Mutex
 import kotlinx.coroutines.sync.withLock
+import org.tensorflow.lite.R
 
 private const val TAG = "MainActivity"
 
