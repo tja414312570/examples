@@ -49,7 +49,7 @@ private const val TAG = "MainActivity"
 
 class MainActivity : AppCompatActivity() {
 
-  private val tfImageName = "tensorflow.jpg"
+  private val tfImageName = "game.jpg"
   private val androidImageName = "android.jpg"
   private val chromeImageName = "chrome.jpg"
   private lateinit var viewModel: MLExecutionViewModel
